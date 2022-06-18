@@ -1,0 +1,3 @@
+Jerry Smith,72,high
+Kyle Webb,14,low
+Joe Singer,42,medium
